@@ -1,0 +1,125 @@
+===============================
+ANKIT PORTFOLIO DOCUMENTATION
+===============================
+
+1. PROJECT NAME
+----------------
+Ankit Portfolio Website
+
+2. DESCRIPTION
+----------------
+This project is a modern personal portfolio website created using:
+
+- HTML
+- CSS
+- JavaScript
+
+The website is responsive and includes animations, hover effects,
+typing animation and modern glassmorphism UI.
+
+3. FILE DETAILS
+----------------
+
+index.html
+------------
+Main structure of website.
+
+Contains:
+- Header
+- Hero Section
+- About Section
+- Education
+- Skills
+- Projects
+- Certificates
+- Contact Form
+- Footer
+
+style.css
+------------
+Contains all website styling:
+
+- Colors
+- Layout
+- Animations
+- Responsive Design
+- Hover Effects
+- Buttons
+- Cards
+
+script.js
+------------
+Contains all website functionality:
+
+- Typing Animation
+- Scroll Animation
+- Contact Form Alert
+
+4. FEATURES
+----------------
+
+✔ Responsive Design
+✔ Animated Background
+✔ Typing Effect
+✔ Hover Animation
+✔ Modern UI
+✔ Skills Section
+✔ Projects Showcase
+✔ Certificates Section
+✔ Contact Form
+✔ Social Icons
+
+5. HOW TO RUN
+----------------
+
+Step 1:
+Download project folder
+
+Step 2:
+Open project folder in VS Code
+
+Step 3:
+Install Live Server Extension
+
+Step 4:
+Open index.html
+
+Step 5:
+Run with Live Server
+
+6. CUSTOMIZATION
+----------------
+
+You can edit:
+
+- Name
+- Skills
+- Projects
+- Contact Details
+- Images
+- Colors
+
+inside index.html and style.css files.
+
+7. RESPONSIVE SUPPORT
+----------------
+
+This website supports:
+
+- Mobile Devices
+- Tablets
+- Laptops
+- Desktop Screens
+
+8. AUTHOR
+----------------
+
+Created By:
+Ankit
+
+MERN Stack Developer
+
+9. END
+----------------
+
+Thank You For Using This Project 🚀
